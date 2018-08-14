@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/football-club.iml" filepath="$PROJECT_DIR$/football-club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-common/football-common.iml" filepath="$PROJECT_DIR$/football-common/football-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-dao/football-dao.iml" filepath="$PROJECT_DIR$/football-dao/football-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-entity/football-entity.iml" filepath="$PROJECT_DIR$/football-entity/football-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-service/football-service.iml" filepath="$PROJECT_DIR$/football-service/football-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-web/football-web.iml" filepath="$PROJECT_DIR$/football-web/football-web.iml" />
+    </modules>
+  </component>
+</project>
